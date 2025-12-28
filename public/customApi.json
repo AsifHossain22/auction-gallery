@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Camera",
+    "description": "A classic 1960s film camera in excellent working condition.",
+    "currentBidPrice": 300,
+    "timeLeft": "2h 35m",
+    "bidsCount": 8,
+    "image": "https://i.ibb.co/RGgTv5X1/vintage-camera.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Antique Wooden Chair",
+    "description": "Handcrafted wooden chair with intricate carvings, over 100 years old.",
+    "currentBidPrice": 250,
+    "timeLeft": "5h 12m",
+    "bidsCount": 14,
+    "image": "https://i.ibb.co/v4mYcwNM/antique-chair.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Luxury Wristwatch",
+    "description": "Premium stainless steel wristwatch with sapphire glass and leather strap.",
+    "currentBidPrice": 500,
+    "timeLeft": "1d 4h",
+    "bidsCount": 22,
+    "image": "https://i.ibb.co/QFLbsdTw/luxury-watch.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Gaming Laptop",
+    "description": "High-performance gaming laptop with RTX 4070 graphics and 32GB RAM.",
+    "currentBidPrice": 1000,
+    "timeLeft": "3d 6h",
+    "bidsCount": 35,
+    "image": "https://i.ibb.co/1YH3pxmF/gaming-laptop.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Signed Football Jersey",
+    "description": "Official team jersey signed by a famous football player.",
+    "currentBidPrice": 150,
+    "timeLeft": "7h 50m",
+    "bidsCount": 19,
+    "image": "https://i.ibb.co/0jDkJ0QY/football-jersey.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Smartphone Pro Max",
+    "description": "Latest flagship smartphone with 256GB storage and triple camera system.",
+    "currentBidPrice": 500,
+    "timeLeft": "12h 10m",
+    "bidsCount": 27,
+    "image": "https://i.ibb.co/tTNvjTwd/smartphone.jpg"
+  }
+]

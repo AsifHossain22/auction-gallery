@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* BannerComponentStyle */
+.banner-container {
+  /* background: url(./assets/Banner-min.jpg) no-repeat center center; */
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(".//assets/Banner-min.jpg") center/cover no-repeat;
+  color: #fff;
+}
+.banner-inner {
+  min-height: 90vh;
+}
